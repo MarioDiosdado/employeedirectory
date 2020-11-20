@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Mario Diosdado",
+      "occupation": "Engineer",
+      "email": "mario@mario.com"
+    },
+    {
+     "id": 2,
+      "name": "Patricio gomez",
+      "occupation": "Executive",
+      "email": "mario@mario.com"
+    },
+    {
+      "id": 3,
+      "name": "Daniel Valles",
+      "occupation": "Landlord",
+      "email": "mario@mario.com"
+    },
+    {
+      "id": 4,
+      "name": "Alex Carmona",
+      "occupation": "Engineer",
+      "email": "mario@mario.com"
+    },
+    {
+      "id": 5,
+      "name": "Carlos Cortinas",
+      "occupation": "Engineer",
+      "email": "mario@mario.com"
+    },
+    {
+      "id": 6,
+      "name": "Federico Leon",
+      "occupation": "CEO",
+      "email": "mario@mario.com"
+    }
+  ]
