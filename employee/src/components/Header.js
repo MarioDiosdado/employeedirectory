@@ -4,7 +4,8 @@ const styles = {
     header: {
       width: "100%",
       textAlign: "center",
-      padding: "25px 0"
+      padding: "25px 0",
+      background: "grey"
     }
   }
 
